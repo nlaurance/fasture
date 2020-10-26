@@ -1,0 +1,2 @@
+# fasture
+FastAPI Future
